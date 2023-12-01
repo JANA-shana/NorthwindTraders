@@ -29,7 +29,7 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />  
     <PackageReference Include="NSwag.AspNetCore" Version="13.1.2" />  
-    <PackageReference Include="NSwag.Core" Version="13.1.2" />
+    <PackageReference Include="NSwag.Core" Version="13.20.0" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="8.5.0" />
     <PackageReference Include="NSwag.MSBuild" Version="13.1.2">
       <PrivateAssets>all</PrivateAssets>
